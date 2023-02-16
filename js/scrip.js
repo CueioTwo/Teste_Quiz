@@ -1,2 +1,4 @@
-var body = window.document.body;
-body.style.background = 'red';
+function Verificar(){
+    var txt1 = window.document.querySelector("input#res").value;
+    
+}
